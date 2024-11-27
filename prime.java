@@ -3,5 +3,6 @@ public class prime{
         System.out.println("prime new commit 1");
          System.out.println("prime new commit 1");
           System.out.println("prime new commit 2");
+           System.out.println("prime new commit 3");
     }
 }
